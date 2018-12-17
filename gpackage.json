@@ -1,0 +1,20 @@
+{
+	"author": {
+		"email": "info@s5solutions.com",
+		"name": "S5 Solutions, Inc.",
+		"url": "https://s5solutions.com"
+	},
+	"description": "Simple Error Logger for LabVIEW",
+	"keywords": [
+		"Error", "Log"
+	],
+	"files": [
+		"ErrorLog/"
+	],
+	"license": "MIT",
+	"lvversion": ">=14",
+	"name": "@s5/errorlog",
+	"private": false,
+	"repository": "https://github.com/S5Solutions/ErrorLog.git",
+	"version": "1.0.0"
+}
